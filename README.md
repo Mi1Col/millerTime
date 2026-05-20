@@ -7,5 +7,3 @@ in that planet the times goes different,
 So there is a function made in python that when you introduce a date, you can watch how many seconds
 have passed in the Miller's Planet, how many minutes and how many hours.
 
-
-Sorry if I made any mistake, I'm not very good in english.
